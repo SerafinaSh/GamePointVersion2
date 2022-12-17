@@ -1,0 +1,41 @@
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\bin\Debug\Shavrina.exe.config
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\bin\Debug\Shavrina.exe
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\bin\Debug\Shavrina.pdb
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Form1.resources
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Logo.resources
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Properties.Resources.resources
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.GenerateResource.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.exe
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.pdb
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Pole.resources
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Descript.resources
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\bin\Debug\Shavrina.exe.config
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\bin\Debug\Shavrina.exe
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\bin\Debug\Shavrina.pdb
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Descript.resources
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Form1.resources
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Logo.resources
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Pole.resources
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.Properties.Resources.resources
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.GenerateResource.cache
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.exe
+C:\Users\Kangarion\Downloads\Годовой проект\Shavrina\Shavrina\obj\Debug\Shavrina.pdb
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\bin\Debug\Shavrina.exe.config
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\bin\Debug\Shavrina.exe
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\bin\Debug\Shavrina.pdb
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.Descript.resources
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.Form1.resources
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.Logo.resources
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.Pole.resources
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.Properties.Resources.resources
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.GenerateResource.cache
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.exe
+C:\Users\Kangarion\Downloads\GamePoint-main\Shavrina\Shavrina\obj\Debug\Shavrina.pdb
